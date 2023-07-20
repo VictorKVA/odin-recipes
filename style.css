@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+ #heading {
+    color: blue;
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+    background-color: orange;
+  }
+  
+  .recipe {
+    font-size: 18px;
+    font-weight: 800;
+  }
+  
+  #heading.jollof {
+    color: rgb(30, 87, 125);
+  }
+  
+  .tacos {
+    color: rgb(150, 10, 143);
+    font-weight: bold;
+  } 
+  
+  .chapati{
+    color: rgb(10, 30, 10);
+  }
+  
+  img {
+
+  }
